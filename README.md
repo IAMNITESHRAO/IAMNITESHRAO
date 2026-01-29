@@ -1,5 +1,26 @@
 # 💫 About Me:
-Software Engineer specializing in React.js, Next.js, and modern frontend development.<br><br>Experienced in building scalable, real-time, API-driven web applications.<br><br>Strong in state management, performance optimization, and responsive UI design.<br><br>Skilled in integrating REST APIs, WebSockets, and microservices-based systems.<br><br>Proficient in testing automation, system design, and debugging complex applications.<br><br>Proven ability to deliver data visualization and security-focused analytics platforms.<br><br>Passionate about creating high-performance digital products and continuous learning.
+
+✨ <b>About Me</b><br>
+Modern frontend developer focused on scalable and performant web apps.<br><br>
+
+🔧 <b>Tech Stack</b><br>
+React, Next.js, TypeScript, APIs, WebSockets.<br><br>
+
+📈 <b>Experience</b><br>
+Creating real-time dashboards and security analytics platforms.<br><br>
+
+💡 <b>Core Skills</b><br>
+UI engineering, optimization, and testing automation.<br><br>
+
+🧩 <b>Architecture</b><br>
+API design, microservices, and system scalability.<br><br>
+
+🛠️ <b>Projects</b><br>
+AI-based interview platform and data-driven applications.<br><br>
+
+🎯 <b>Vision</b><br>
+Delivering impactful digital products with clean code and great UX.<br>
+
 
 
 ## 🌐 Socials:
