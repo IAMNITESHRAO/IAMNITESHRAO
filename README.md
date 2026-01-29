@@ -2,22 +2,16 @@
 
 ✨ <b>About Me</b><br>
 Modern frontend developer focused on scalable and performant web apps.<br><br>
-
 🔧 <b>Tech Stack</b><br>
 React, Next.js, TypeScript, APIs, WebSockets.<br><br>
-
 📈 <b>Experience</b><br>
 Creating real-time dashboards and security analytics platforms.<br><br>
-
 💡 <b>Core Skills</b><br>
 UI engineering, optimization, and testing automation.<br><br>
-
 🧩 <b>Architecture</b><br>
 API design, microservices, and system scalability.<br><br>
-
 🛠️ <b>Projects</b><br>
 AI-based interview platform and data-driven applications.<br><br>
-
 🎯 <b>Vision</b><br>
 Delivering impactful digital products with clean code and great UX.<br>
 
